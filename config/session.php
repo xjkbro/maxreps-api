@@ -155,8 +155,8 @@ return [
     |
     */
 
-    // 'domain' => env('SESSION_DOMAIN'),
-    'domain' => '.jsondelara.com',
+    'domain' => env('SESSION_DOMAIN'),
+    // 'domain' => '.jsondelara.com',
 
     /*
     |--------------------------------------------------------------------------
